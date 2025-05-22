@@ -5,6 +5,7 @@
 ```bash
 # ilk komut
 npm install
+
 # yükleme işlemleri bittikten sonraki komut
 npm run dev
 ```
